@@ -17,3 +17,25 @@ Install BigStack via npm:
 
 ```bash
 npm install bigstack
+```
+
+## Usage
+
+Use BigStack functions to embrace the full-stack mindset in your project:
+
+```javascript
+import * as BigStack from 'bigstack';
+
+console.log(BigStack.welcomeMessage()); // Welcome message
+console.log(BigStack.getRandomStackAdvice()); // Random advice
+console.log(BigStack.getMockSensorData()); // Simulated sensor data
+console.log(BigStack.getDeviceStatus()); // Mock device status
+```
+
+## About BigStack
+
+BigStack is not just a package—it’s a process, a philosophy, and a reminder to developers everywhere that full-stack development includes hardware, software, and every layer in between. Build with purpose, think big, and embrace the mindset!
+
+## License
+
+MIT
