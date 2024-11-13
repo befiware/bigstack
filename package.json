@@ -1,0 +1,19 @@
+{
+  "name": "bigstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BigStack",
+    "IoT",
+    "hardware",
+    "software",
+    "full-stack",
+    "mindset"
+  ],
+  "author": "befiware",
+  "license": "MIT",
+  "description": "BigStack is more than just code—it's a mindset. Uniting hardware, software, and everything in between."
+}
